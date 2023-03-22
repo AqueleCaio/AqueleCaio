@@ -50,3 +50,4 @@
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 </p>
 
+![snake gif](https://github.com/AqueleCaio/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
