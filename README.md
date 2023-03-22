@@ -24,9 +24,15 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <br>
     </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="40" height="40"/>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.opera.com/gx" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="40" height="40"/>
+    </a>
   </p>
   
 ##
