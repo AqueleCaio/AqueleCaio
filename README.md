@@ -1,4 +1,4 @@
-<h3 align="justify">Olá! Meu nome é Caio Henrique</h3>
+## Olá! Meu nome é Caio Henrique
 
 
 <!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
