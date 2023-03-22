@@ -1,5 +1,8 @@
 <h3 align="center">Olá! Meu nome é Caio Henrique</h3>
 
+<!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquelecaio&" alt="aquelecaio theme="dracula-theme"" /></p>
+
 <!--ICONES DE LINGUAGENS-->
   <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -18,23 +21,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
     </a> 
   </p>
-  
- <!--VISUALIZAÇÕES DO PERFIL-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aquelecaio&label=Profile%20views&color=0e75b6&style=flat" alt="aquelecaio" /> 
-</p>
 
 <!--ICONES DAS REDES SOCIAIS-->
-<h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://twitter.com/caio__hp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caio__hp" height="30" width="40" /></a>
 <a href="https://fb.com/caio henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caio henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/caio__hp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caio__hp" height="30" width="40" /></a>
 </p>
 
-<!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquelecaio&show_icons=true&locale=en&layout=compact" alt="aquelecaio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquelecaio&show_icons=true&locale=en" alt="aquelecaio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquelecaio&" alt="aquelecaio theme="dracula-theme"" /></p>
