@@ -49,3 +49,18 @@
 <a href="https://instagram.com/caio__hp" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/AqueleCaio/snk/main/github-contribution-grid-snake-dark.svg
+    "
+  />
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AqueleCaio/snk/main/github-contribution-grid-snake.svg"
+  />
+</picture>
