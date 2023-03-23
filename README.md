@@ -49,5 +49,3 @@
 <a href="https://instagram.com/caio__hp" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 </p>
-
-![Snake animation](github-user-contribution.svg)
