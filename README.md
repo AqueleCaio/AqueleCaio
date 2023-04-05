@@ -2,9 +2,9 @@
 
 
 <!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AqueleCaio&theme=github_dark" alt="aquelecaio" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AqueleCaio&theme=github_dark" alt="aquelecaio" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqueleCaio&layout=compact&theme=github_dark" alt="aquelecaio" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqueleCaio&layout=compact&theme=github_dark" alt="aquelecaio" />
 
 
 <!--ICONES DE LINGUAGENS-->
