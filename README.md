@@ -34,13 +34,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="40" height="40"/>
     </a>
   </p>
-  
-##
-<picture>
-  <img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" width="1100" height="100"/>
-</picture>
-
-##
 
 <!--ICONES DAS REDES SOCIAIS-->  
 <p align="left">
