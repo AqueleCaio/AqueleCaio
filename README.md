@@ -2,7 +2,7 @@
 
 
 <!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AqueleCaio&theme=github_dark" alt="aquelecaio" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AqueleCaio&theme=github_dark" alt="aquelecaio"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqueleCaio&layout=compact&theme=github_dark" alt="aquelecaio" />
 
@@ -34,6 +34,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="40" height="40"/>
     </a>
   </p>
+  
 
 <!--ICONES DAS REDES SOCIAIS-->  
 <p align="left">
