@@ -2,8 +2,9 @@
 
 
 <!--INFORMAÇÕES SOBRE MEU DESEMPENHO-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AqueleCaio&theme=transparent" alt="aquelecaio"/>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqueleCaio&layout=compact&theme=transparent" alt="aquelecaio" />
 
 <!--ICONES DE LINGUAGENS-->
   <p align="left" style="pointer-events: none">
