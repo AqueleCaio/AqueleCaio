@@ -37,8 +37,6 @@
 
 <!--ICONES DAS REDES SOCIAIS-->  
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100012288634443" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="caio henrique" height="30" width="110" /></a>
-<a href="https://twitter.com/caio__hp" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 <a href="https://instagram.com/caio__hp" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caio__hp" height="30" width="110" /></a>
 </p>
