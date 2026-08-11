@@ -8,15 +8,6 @@
 
 <br>
 
-## Sobre mim
-
-- Atualmente trabalho no desenvolvimento e manutenção do portal **CEDUC/UNIFEI**, construindo pipelines de dados WordPress → Elementor e sistemas de acessibilidade
-- Desenvolvo tanto no **backend** (plugins PHP, custom post types, cache e integrações via REST API) quanto no **frontend** (JavaScript, widgets Elementor)
-- Explorando projetos full-stack independentes (React/Vite + Node/Express + PostgreSQL)
-- Interessado em acessibilidade web, automação de processos e arquitetura de dados para WordPress
-
-<br>
-
 ## Tecnologias & Ferramentas
 
 <p align="left">
@@ -62,16 +53,12 @@
 
 ## Estatísticas do GitHub
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AqueleCaio&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=00000000&title_color=9c2e2e&icon_color=9c2e2e" alt="estatísticas github" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AqueleCaio&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=9c2e2e" alt="linguagens mais usadas" />
-</p>
+</p>  
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AqueleCaio)](https://git.io/streak-stats)
-
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AqueleCaio/AqueleCaio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AqueleCaio/AqueleCaio/output/github-contribution-grid-snake.svg">
   <img alt="animação da cobrinha no grid de contribuições" src="https://raw.githubusercontent.com/AqueleCaio/AqueleCaio/output/github-contribution-grid-snake.svg">
